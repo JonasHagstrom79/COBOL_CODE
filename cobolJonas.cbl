@@ -8,7 +8,7 @@ ENVIRONMENT DIVISION.
 DATA DIVISION.
 FILE SECTION.
 WORKING-STORAGE SECTION.
-*> Create variables here
+*> Create variables here will be good
 01 UserName PIC X(30) VALUE "You".
 01 Num1    PIC 9 VALUE ZEROS.
 01 Num2    PIC 9 VALUE ZEROS.
